@@ -12,3 +12,14 @@
 - ポートフォリオ
 
 ![git_self](https://user-images.githubusercontent.com/27131456/69008227-8aae3c00-098b-11ea-9de4-786270eff01a.png)
+
+## 技術要素
+- LINE Bot API
+  - Template_message
+  - Flex_message
+- Flask
+- Heroku
+
+## アカウント
+- こちらから友だち追加できます。
+@205hnlvw
